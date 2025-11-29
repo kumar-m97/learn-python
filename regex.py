@@ -1,4 +1,4 @@
-import re
+#import re
 
 ####################################################################
 #search any 10 digit phone number in the given input string
@@ -67,13 +67,13 @@ import re
 ################################################################
 #program to find and count the number of vowels and consonants from the given strings
 
-givenString = input("Write a short sentance to find no of vowels and constants in it\n",)
+# givenString = input("Write a short sentance to find no of vowels and constants in it\n",)
 
-consoPattern = r'[^ aeiouAEIOU\s]'
-vowelPattern = r'[aeiouAEIOU]'
+# consoPattern = r'[^ aeiouAEIOU\s]'
+# vowelPattern = r'[aeiouAEIOU]'
 
-consoMatch = re.findall(consoPattern, givenString)
-vowelMatch = re.findall(vowelPattern, givenString)
+# consoMatch = re.findall(consoPattern, givenString)
+# vowelMatch = re.findall(vowelPattern, givenString)
 
-print("Consonants Found", len(consoMatch))
-print("Vowels Found", len(vowelMatch))
+# print("Consonants Found", len(consoMatch))
+# print("Vowels Found", len(vowelMatch))
