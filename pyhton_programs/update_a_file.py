@@ -10,6 +10,7 @@ def update_file(file_path,key,value):
             else:
                 file.write(line)
 
+
 file_path = sys.argv[1]
 key = sys.argv[2]
 value = sys.argv[3]
