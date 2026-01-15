@@ -1,6 +1,25 @@
 #import re
 
 ####################################################################
+#generic regex patterns
+# 1. \d - any digit from 0-9
+# 2. \D - any non-digit character
+# 3. \s - space, tab, newline
+# 4. \S - non-space character
+# 5. \w - any alphanumeric character
+# 6. \W - any non-alphanumeric character
+# 7. .  - any character except newline
+# 8. ^  - beginning of a string
+# 9. $  - end of a string
+# 10. *  - zero or more occurrences
+# 11. +  - one or more occurrences
+# 12. ?  - zero or one occurrence
+# 13. {n} - exactly n occurrences
+# 14. {n,} - n or more occurrences
+# 15. {n,m} - between n and m occurrences
+####################################################################
+
+####################################################################
 #search any 10 digit phone number in the given input string
 # text = "My phone number is 8109623162"
 # pattern = r'\b\d{10}\b'
@@ -10,7 +29,7 @@
 
 ####################################################################
 #search any words starting with 'bat' in the given input string
-# input_string = "ratman and ratwoman are characters in a comic book"
+# input_string = "batman and batwoman are characters in a comic book"
 # pattern = r'bat\w+'
 # matches = re.findall(pattern, input_string)
 # print("Matched words:", matches)
