@@ -43,6 +43,14 @@
 <img width="1053" height="635" alt="image" src="https://github.com/user-attachments/assets/a9984f0a-8ccc-45dd-9e90-5e320001d756" />  
 <img width="1181" height="874" alt="image" src="https://github.com/user-attachments/assets/815bb6cf-9931-4aef-bcc8-bce86f5d2d19" />  
 
+## More Python scripts for DevOps  
+<img width="1031" height="855" alt="image" src="https://github.com/user-attachments/assets/ba2213e5-d13b-4002-bbfc-7586b6a334f3" />  
+<img width="1047" height="803" alt="image" src="https://github.com/user-attachments/assets/e50f6047-c572-4bab-9193-80067b0e56b8" />  
+<img width="1079" height="788" alt="image" src="https://github.com/user-attachments/assets/cd87806f-d4fe-4511-ab1a-84d50407813b" />
+
+
+
+
 
 
 
