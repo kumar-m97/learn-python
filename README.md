@@ -2,6 +2,8 @@
 
 ## File Operations with Python
 <img width="1053" height="787" alt="image" src="https://github.com/user-attachments/assets/ab17ceb6-aec7-4a32-82b8-f162bf9fee35" />  
+<img width="1045" height="442" alt="image" src="https://github.com/user-attachments/assets/b494a223-4bb2-4acc-a6b9-63ec63fd5220" />  
+
 --> Refer Dummy Python Script 1 for above.  
 
 <img width="1054" height="885" alt="image" src="https://github.com/user-attachments/assets/cca4396a-392f-48db-a206-03c82f850483" />
