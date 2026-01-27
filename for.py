@@ -27,5 +27,5 @@ for v in devops_exp.values():
     print(v)
 
 #iterating over both key and value:
-for k,v in devops_exp:
+for k,v in devops_exp.itmes():
     print(k,v)
