@@ -6,7 +6,7 @@
 --> Created a Python script which was updating env files and updating some values like urls,ports, servernames etc with given values in the runtime.
 
 ### Code Snippet  
-_import sys  
+import sys  
 
 def update_value(file_path,key,value):  
   with open(file_path, "r") as file:  
@@ -22,5 +22,5 @@ file_path=sys.argv[1]
 key=sys.argv[2]  
 value=sys.argv[3]  
 
-update_value(file_path,key,value)_    
+update_value(file_path,key,value)   
 
